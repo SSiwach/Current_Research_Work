@@ -1,1 +1,1 @@
-Level schemes up to J = 4 for $^{24}$Mg, $^{24}$Ne, and $^{24}$Si. We only need to execute shell once if you choose the lpe option three separate times. For $^{24}$Mg, produce 20 eigenvalues for each J value by typing ’lpe,20’ inside the ’shell’ executable.
+Level schemes up to J = 4 for *$^{24}$Mg*, $^{24}$Ne, and $^{24}$Si. We only need to execute shell once if you choose the lpe option three separate times. For $^{24}$Mg, produce 20 eigenvalues for each J value by typing ’lpe,20’ inside the ’shell’ executable.
