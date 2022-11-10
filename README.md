@@ -16,12 +16,12 @@ The Gamow Teller (GT) transitions, B(GT) values, allowed and forbidden beta deca
 2. Develop and tune a new effective interaction to explain the collectivity around N ~ 40 and also tune the existing effective interactions in this region
 
 3. Perform the shell model calculations for 
- *Excitation energy states, 
- *Magnetic dipole moments, 
- *Electric dipole moments, 
- *Spectroscopic factor strengths, 
- *Gamow-Teller transitions strength, 
- *Q values, branching ratio, 
- *Log ft values, 
- *Beta decay half-lives of single beta decay and double beta decay, and 
- *Forbidden beta decay with newly developed interactions as well as with existing effective interactions.
+ * Excitation energy states, 
+ * Magnetic dipole moments, 
+ * Electric dipole moments, 
+ * Spectroscopic factor strengths, 
+ * Gamow-Teller transitions strength, 
+ * Q values, branching ratio, 
+ * Log ft values, 
+ * Beta decay half-lives of single beta decay and double beta decay, and 
+ * Forbidden beta decay with newly developed interactions as well as with existing effective interactions.
