@@ -15,4 +15,13 @@ The Gamow Teller (GT) transitions, B(GT) values, allowed and forbidden beta deca
 1. Perform the modern large-scale calculation for the different mass regions of the nuclear chart using different effective interactions available. 
 2. Develop and tune a new effective interaction to explain the collectivity around N ~ 40 and also tune the existing effective interactions in this region
 
-3. Perform the shell model calculations for excitation energy states, magnetic dipole moments, electric dipole moments, spectroscopic factor strengths, Gamow-Teller transitions strength, Q values, branching ratio, log ft values, beta decay half-lives of single beta decay and double beta decay, and forbidden beta decay with newly developed interactions as well as with existing effective interactions.
+3. Perform the shell model calculations for 
+ *excitation energy states, 
+ *magnetic dipole moments, 
+ *electric dipole moments, 
+ *spectroscopic factor strengths, 
+ *Gamow-Teller transitions strength, 
+ *Q values, branching ratio, 
+ *log ft values, 
+ *beta decay half-lives of single beta decay and double beta decay, and 
+ *forbidden beta decay with newly developed interactions as well as with existing effective interactions.
