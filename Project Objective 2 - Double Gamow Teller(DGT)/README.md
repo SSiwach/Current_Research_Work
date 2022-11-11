@@ -29,7 +29,7 @@ $$  \hat O_{\pm} (GT) = \sum_{\alpha} \sigma(\alpha) t_{\pm}(\alpha) \tag{2}$$
 The GT sum rule is model independent and gives a good guidance to perform the sinlge charge exchange reactions as (p,n) and ($^3$He,t) reactions to observe GTR strength in many nuclei. 
 The DGT transistion operator $\hat O_{\pm}(GT)^2 $ can be projected to good multipole states to be 
 
-$$ [\hat O_{\pm}(GT) \hat O_{\pm}(GT)]^J_\mu  $$ for $J = 0,2 \tag{3}$
+$$\[\hat O_{\pm}(GT) \hat O_{\pm}(GT)]^J_\mu  $$ for $J = 0,2 \tag{3}$
 
 The sum rule strength is defined as
 
