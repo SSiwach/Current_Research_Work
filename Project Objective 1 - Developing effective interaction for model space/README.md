@@ -1,3 +1,4 @@
+## The Fitting Procedure for required interaction
 For interaction to be effective for a model we need to fit it with the experimental data. Mathmatically we need to minimize the weighted least squares function. 
 For chi-square $\chi^2$ fitting we have
 
