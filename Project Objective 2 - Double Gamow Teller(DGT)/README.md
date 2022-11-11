@@ -17,7 +17,8 @@ Through these expermental studies we observed
 DGTR might be obtaiend observed in the $^{24}Mg(^{18}O, ^{18}Ne) ^{24}Ne$ reaction. However no clear evidence of DGTR was found in these reactions. 
 
 The sum rule for the single GT transistions is well known and proptional to the neutron excess
-$$ S_- - S_+ = \sum_f \vert \langle f\vert O_-(GT)\vert i\rangle\vert^2 -  \vert \langle f\vert O_+(GT)\vert i\rangle\vert^2$$
+
+$$S_- - S_+ = \sum_f \vert \langle f\vert O_-(GT)\vert i\rangle\vert^2 -  \vert \langle f\vert O_+(GT)\vert i\rangle\vert^2$$
 
 $$ = 3(N-Z) \tag{1}$$
 
