@@ -1,7 +1,10 @@
+The problem of double beta decay is at present of mutual interest of both particle and nuclear physicists. The experimental study of double beta decay might provide an answer to wherter neutrio are Marjona or Fermi paritcle. The existence of neutrino less double beta decay will influence particle physicist understanding of weak interactions. Secondly the study of double beta decay is also important in the context of nuclear physics which can explain the structure of the nuclei.
+
 ## Double charge exchange excitations.
 used to 
 * DGTR - Double Gamow-Teller Giant Resonance
 * To calculate Double beta decay matrix elements.
+
 
 ## performed by using
 * pion beams
