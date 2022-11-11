@@ -2,9 +2,15 @@
 * Calculation of  **B(E2)** transistion from first excited state to the ground state. 
 # We also found out 
 > Half-Life time
+
 > M1 moment
+
+> Half Life Time
+
 > Quadrupole moment
+
 > Width of Decay
+
 > Branching Ratio
 ```
 --------------------------------------------------------------------------------
