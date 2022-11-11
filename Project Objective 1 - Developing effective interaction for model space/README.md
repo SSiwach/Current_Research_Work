@@ -3,7 +3,7 @@ For interaction to be effective for a model we need to fit it with the experimen
 For chi-square $\chi^2$ fitting we have
 
 $$
-\chi^2 = \sum_i w_i (E_{i}^{th} - E^{exp}_i)^2
+ \phi=\chi^2 = \sum_i w_i (E_{i}^{th} - E^{exp}_i)^2
 $$
 
 where $i$ sum over all the energy level of the interest, $w_i$ is the weight factor of each energy level. 
@@ -24,7 +24,7 @@ Second condition applies on fitting is valid when the wave function changes slow
 When ever this happens the code automatically should switches to another procedure in which derivative are evaluated analytically:
 
 $$
-\frac{\partial \psi}{\partial x_{\alpha} } = 2 \sum_i w_i (E^{th}_i - E^{exp}_i)\frac{\partial E_i^{th}}{\partial x_{\alpha}}
+\frac{\partial \phi}{\partial x_{\alpha} } = 2 \sum_i w_i (E^{th}_i - E^{exp}_i)\frac{\partial E_i^{th}}{\partial x_{\alpha}}
 $$
 
 with $$\frac{\partial E_i^{th}}{\partial x_{\alpha}} = \frac{\partial \langle i \vert H \vert i\rangle}{\partial x_{\alpha}} = \frac{\partial H}{\partial x_{\alpha}} \vert i$$
