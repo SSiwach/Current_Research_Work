@@ -1,0 +1,18 @@
+--------------------------------------------------------------------------------
+gamma decay for ne300b.deo     
+
+! model space = sd                                          
+! interaction = usdb                                        
+! e_p =   1.360    e_n =   0.450   E2                       
+! g_sp =  5.000    g_sn = -3.440   M1 spin                  
+! g_lp =  1.174    g_ln = -0.110   M1 orbital               
+! g_pp =  0.240    g_pn = -0.160   M1 tensor                
+
+      Ei       Ji   ni         tau          T_(1/2)      M1 moment   Q moment         width
+    (MeV)                     (psec)         (psec)        (u_N)    (e^2 fm^2)       (eV)
+
+    1.708      2+    1       2.053958      1.423701      0.000         0.00  -----  0.3204E-03      
+                                                                                                    
+             Ef      Jf   nf    BR        del    B(M1)       B(E2)           A_p      A_n           
+             0.000    0+   1 100.0000   999.00   0.0000E+00  0.2733E+02      8.594    0.000         
+                                                                                                    
