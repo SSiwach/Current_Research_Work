@@ -6,7 +6,7 @@ used to
 * To calculate Double beta decay matrix elements.
 
 
-## performed by using
+## Performed by using
 * pion beams
 
 Through these expermental studies we observed
