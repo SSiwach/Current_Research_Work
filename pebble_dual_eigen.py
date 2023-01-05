@@ -20,5 +20,4 @@ print eigenvalues
 #for iter in range(18):
 #    print eigenvalues[iter]
 #    for i in range(18):
-#        print eigenvectors[i][iter]
 
