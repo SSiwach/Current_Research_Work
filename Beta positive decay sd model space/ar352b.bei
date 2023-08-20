@@ -1,0 +1,5 @@
+! model space = sd
+! interaction = usdb
+    ef-ei     b(gt)       ji   ti    jf   tf      ef   l      ni  nf pi pf
+    0.000   0.2230E-01   1.5  0.5   1.5  0.5 -215.332  1     1    1  1  1
+    2.625   0.2611E-01   1.5  0.5   1.5  0.5 -212.707  1     1    2  1  1
