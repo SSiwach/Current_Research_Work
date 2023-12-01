@@ -16,8 +16,3 @@ transfer[6+9,6+9] -= epsilon
 eigenvalues, eigenvectors = numpy.linalg.eig(transfer)
 print eigenvalues
  
-# you may print the eigenvectors by uncommenting the following four lines
-#for iter in range(18):
-#    print eigenvalues[iter]
-#    for i in range(18):
-
