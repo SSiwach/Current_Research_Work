@@ -4,7 +4,7 @@
 * Show basic inspection of nuclear interaction data
 
 
-# output of TBME_anal.py
+# output of tbme_anal.py
 
 ```
 Orbitals : [1, 2]
